@@ -44,7 +44,7 @@ start:
     ENDM
     
     
-    maxn 4 , 5 , 6
+    maxn 4 , 5 , 7
              
        
 ends
